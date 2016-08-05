@@ -1,0 +1,9 @@
+C:\CalebE\Projects\RecursiveSearchRegex\RecursiveSearchRegex\bin\Debug\RecursiveSearchRegex.exe.config
+C:\CalebE\Projects\RecursiveSearchRegex\RecursiveSearchRegex\bin\Debug\RecursiveSearchRegex.exe
+C:\CalebE\Projects\RecursiveSearchRegex\RecursiveSearchRegex\bin\Debug\RecursiveSearchRegex.pdb
+C:\CalebE\Projects\RecursiveSearchRegex\RecursiveSearchRegex\bin\Debug\RecursiveSearchRegex.xml
+C:\CalebE\Projects\RecursiveSearchRegex\RecursiveSearchRegex\obj\Debug\RecursiveSearchRegex.Resources.resources
+C:\CalebE\Projects\RecursiveSearchRegex\RecursiveSearchRegex\obj\Debug\RecursiveSearchRegex.vbproj.GenerateResource.Cache
+C:\CalebE\Projects\RecursiveSearchRegex\RecursiveSearchRegex\obj\Debug\RecursiveSearchRegex.exe
+C:\CalebE\Projects\RecursiveSearchRegex\RecursiveSearchRegex\obj\Debug\RecursiveSearchRegex.xml
+C:\CalebE\Projects\RecursiveSearchRegex\RecursiveSearchRegex\obj\Debug\RecursiveSearchRegex.pdb
